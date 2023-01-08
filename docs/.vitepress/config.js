@@ -66,7 +66,7 @@ function nav() {
 					items: [
 						{ text: "手机小程序定制", link: "/query/手机小程序定制" },
 						{ text: "编写喷泉节目脚本", link: "/query/编写喷泉节目脚本" },
-						{ text: "教程", link: "/query/tutorial" },
+						{ text: "教程", link: "/query/教程" },
 					],
 				},
 				{
@@ -131,7 +131,7 @@ function sidebarQuery() {
 			items: [
 				{ text: "手机小程序疑难杂症", link: "/query/手机小程序定制" },
 				{ text: "编写喷泉节目脚本", link: "/query/编写喷泉节目脚本" },
-				{ text: "教程", link: "/query/tutorial" },
+				{ text: "教程", link: "/query/教程" },
 				{ text: "已建成喷泉咨询", link: "/query/已建成喷泉咨询" },
 				{ text: "在建喷泉咨询", link: "/query/在建喷泉咨询" },
 			],
