@@ -17,7 +17,7 @@ jobs:
           node-version: 16
       
       - name: Install pnpm
-        run: npm i pnpm
+        run: npm i pnpm -g
 
       - name: Pnpm install dependents
         run: pnpm install
