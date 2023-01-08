@@ -27,8 +27,8 @@ features:
     details: 喷泉、音乐、互动、水幕投影、水幕激光
  #   link: https://github.com/vuejs/vitepress
   - icon: 
-      dark: /picture/虞兮叹_闻人听书.jpeg
-      light: /picture/vue.svg
+      src: /picture/虞兮叹_闻人听书.jpeg
+#      light: /picture/vue.svg
     title: 创作音乐喷泉节目脚本
     details: 不需要任何专业技术背景。对音乐的节奏和旋律有感觉，有电脑和网络。
 ---

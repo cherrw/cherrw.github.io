@@ -3,10 +3,11 @@ export default {
 	description: "手机点播，喷泉表演",
 
 	lastUpdated: true,
+	lastUpdatedText: "最近更新时间：",
 	themeConfig: {
 		logo: "/picture/vite.svg",
 		siteTitle: "示联科技",
-        outlineTitle: "本页标题：",
+        outlineTitle: "本页内容：",
 		// editLink: {
 		// 	pattern: "https://github.com/vuejs/vitepress/edit/main/docs/:path",
 		// },
