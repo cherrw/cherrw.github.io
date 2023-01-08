@@ -11,7 +11,7 @@ lerna-debug.log*
 *.local
 
 /docs/.vitepress/dist/
-/docs/.vitepress/cache/
+/docs/.vitepress/cache/**/
 
 .npmrc
 
