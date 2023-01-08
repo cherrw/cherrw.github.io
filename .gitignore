@@ -13,6 +13,8 @@ lerna-debug.log*
 /docs/.vitepress/dist/
 /docs/.vitepress/cache/deps/
 
+cache
+
 .npmrc
 
 # Editor directories and files
