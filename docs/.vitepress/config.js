@@ -20,7 +20,7 @@ export default {
 				level: [0, 0],
 			},
 		},
-
+		
 		nav: nav(),
 		sidebar: {
 			"/guide/": sidebarGuide(),
